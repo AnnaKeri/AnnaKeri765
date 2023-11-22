@@ -1,0 +1,26 @@
+{
+  "name": "Ada Flores",
+  "age": 31,
+  "address": {
+    "street": "Zunet Turnpike",
+    "city": "Lihlapi",
+    "state": "OR",
+    "zip": "72681"
+  },
+  "contact": {
+    "phone": "(417) 243-9458",
+    "servicePhone": "800343736"
+  },
+  "birthday": "2003-07-17T10:44:53.312Z",
+  "ip": "239.28.144.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Jod gedijjak wumtu pa ni hiap vumef cutbud ine zefmingug oggagwon ge sub nijeba ki tuajsa fezagib pauha. Himigbud ap ridiprab hic emkepuv ow lula zofkunis zo kuv mulhuj lashelho larowjir. Niikud vor patikma za wifsunu ufo wivcego zopohjo rowlin cibitig lini avi vulim wusza.",
+    "bio": "Bi afo ike ujuikzeb dopli ofu rufzobpe lela suabkeg ocu lolmibbiw fermat ipicahi kojaju puljiesu nokanu. Gise hecon fesug petez abareb nejcob heb geuzoda wep simno zawluf tunvatda jo lojno zitram lugpe eru ezizkep. Erfoih sa pih ni se vir azapeha bo zilode ge lodu vuuphu zossiuvi. Pafzedop rigta buk me zaug sahfole zi ucuse baz re ki purta."
+  },
+  "apiKey": "9e772810f551e0efd66468a3a50a4f0560ad5f286dfd531f5a3d4834644aee7a",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
