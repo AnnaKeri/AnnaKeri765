@@ -1,0 +1,26 @@
+{
+  "name": "Dora Palmer",
+  "age": 33,
+  "address": {
+    "street": "Hewog Heights",
+    "city": "Nebukom",
+    "state": "DE",
+    "zip": "35737"
+  },
+  "contact": {
+    "phone": "(459) 487-1990",
+    "servicePhone": "800898612"
+  },
+  "birthday": "1974-06-07T14:23:11.164Z",
+  "ip": "194.96.36.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Olote pofrake hir ju emazi dereifo su sizzu sihekez jah putkut watihiv jalma lajonzod. Gozgo nadik ba fodafab cas niku ehu guebuira ravef mojizo bof vat pah iplieve kemiho. Enuoge zuhodu limlon jahu we az ane bo lelij vetekre sa seomu cap lif teowacaj ge ro.",
+    "bio": "Pumi richa maloki citkuwu fifegdid onmezgak deafegi el zameb ezki idohoke ejo vo uk giposruf vu. Lepep cokdum lefip dosu huco mu mo naava zim kevumi raci il sedig besbib awnaptep upfa nif zucomofid. Efhevos simmu menja mu tebafeed me kih rirubwiz arowir ugo uzacedun nu berarubi zomgojez tuk cukija mazda."
+  },
+  "apiKey": "a35ab56ca2356544c1be3671a42b4cc870e27697146530ffe9633939fb3f0933",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
