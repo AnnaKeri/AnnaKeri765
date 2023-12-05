@@ -1,0 +1,26 @@
+{
+  "name": "Dean Saunders",
+  "age": 24,
+  "address": {
+    "street": "Kersub Park",
+    "city": "Goruntop",
+    "state": "NC",
+    "zip": "91270"
+  },
+  "contact": {
+    "phone": "(752) 251-1910",
+    "servicePhone": "800559848"
+  },
+  "birthday": "1997-05-04T03:47:08.475Z",
+  "ip": "221.90.132.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Pacdewte udbilzow metci orowioku hepheg okliwet zaobezaj wujudta dev wuzvur napo duuplu zuru ihaedkan fe me rekzutjoh. Suahe rucfekik ew su ciewu pewe bi zifrej fa teog vemewmuz taz to ov tenengu mo. Uwi mip juzlueku jizuge meir ivcu fef ebpuegi eziawevig adiju ejiim ducaldi ohuobo.",
+    "bio": "Fag ahiewe zeiv tawadaf tu ussi bulel ahe vim iveri si ni peseub fopof te narboz. Bo tuis jus kewto ziw rotva jojnak ul utinu vo watal ajef cuolelab ihi adice. Uz si nawem rohoj zifhinaz kudiw rip iji gonbudow fu bovobe ajwev. Bamiknul date towta zu akumusnem wo wewrobgu de pecpojfeb tiw ca romde."
+  },
+  "apiKey": "ebf34e2ee1a93764c408fc96a80adf7d1213160e893c1c1bcc0dbfa904e645cf",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
