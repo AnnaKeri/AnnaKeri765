@@ -1,0 +1,26 @@
+{
+  "name": "Robert Morales",
+  "age": 61,
+  "address": {
+    "street": "Libof Boulevard",
+    "city": "Tovpatjag",
+    "state": "NE",
+    "zip": "31304"
+  },
+  "contact": {
+    "phone": "(989) 516-1781",
+    "servicePhone": "800947892"
+  },
+  "birthday": "1985-08-06T23:00:37.823Z",
+  "ip": "12.160.135.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Foinpu ja irepo ose otowehbe gahse kahjagwik lariv iw jakpig bimusipip dotil ozuga ri loas okikajej bouli. Go acebim ogebi vuvupfad bezesfud jip ri tidrugrir de roh subanfuh ep idokek. Ko lifuvu pegaphi saru una rum eruowu ipsoztum zafmij tez vaber toos vowaz.",
+    "bio": "Ede jidforuc vawimkew motupoj laj bifgopa uru ka safli galbaku tito el saazu mit. Ticirdus rurij goc fiede wicdu kiv lidehawe il tero jipid ijnu budu zal zaut puh dapik. Ujowudo wekafoaru raldices im wowno sotobse ro mukipus udoul suc joh veirnod haozu."
+  },
+  "apiKey": "2fb7858a36f3f6a8c6ba2445b5fd64c7ccd70b98df6217534b02c09141a75915",
+  "currency": {
+    "code": "MDL",
+    "name": "Moldova Leu"
+  }
+}
