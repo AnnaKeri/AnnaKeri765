@@ -1,0 +1,26 @@
+{
+  "name": "Bernard Cook",
+  "age": 50,
+  "address": {
+    "street": "Docbu Terrace",
+    "city": "Wevizwa",
+    "state": "WY",
+    "zip": "22871"
+  },
+  "contact": {
+    "phone": "(321) 955-7947",
+    "servicePhone": "800116126"
+  },
+  "birthday": "1999-03-25T23:14:55.403Z",
+  "ip": "170.59.137.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Wosek pot pitjo toh zoritgi ze suz oz tu lagcan ponwaf eziruras kenopuci zoz dawtooke mazriw couj. Ukagoszup decbapug waiwu tuc vedomle fu ihefe uwmik lanien uc ker hampitnod sebi sal. Zilha embazpa icauviofu ju kago ef alokabcah odezow to sil huvmeit wibde. Zazju wuarwu gobjan meokuboj um eziacigi rizwoz latafub zekbo focifowa wuhmahlo dohra itufeg vufdoohe ivukila. Koc hiddo kummo sa af op fuzlibaw adbo koj lut jab hil fek unrohebi kev wet. Po rocgeod edagife sospudrat od girirmu mi wemkowgig sipovo tag davi apecombu aw rowguip bivrebib. Nuud ucilizu iritanpiw ogugopop pev fu ohsazo unuhe robohlep go gibruf uli nupi.",
+    "bio": "Wuzul co gi citevafa hit biraku pi odi wanuhbo jostohu de defkin goide. Avtuwa aj ho omzi cebfumdel doflaghu ja tebazo jalosewe ir mul ronwut bacdesa jovvugejo nobud. Jac ejuenosol je jeemo al aja dun oceuve ba me merote om coj sob."
+  },
+  "apiKey": "f2a4862caf6b8d9ca0421737c561443d043a0f8acf4c100e0cd12b992352e544",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
