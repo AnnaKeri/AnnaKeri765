@@ -1,0 +1,26 @@
+{
+  "name": "Stephen Hicks",
+  "age": 20,
+  "address": {
+    "street": "Lahju Park",
+    "city": "Baziniz",
+    "state": "MS",
+    "zip": "60082"
+  },
+  "contact": {
+    "phone": "(331) 372-7888",
+    "servicePhone": "800936824"
+  },
+  "birthday": "1995-08-17T19:12:42.176Z",
+  "ip": "145.204.9.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Fiketeg wothed ribobtad ninihfit hudzi adamaz razepo keppi ugaujbu cucede dupu waprohbi fowav keabo vu omiti womehom. Ca walsup veco junpo zuvguufo iz cujzozfo waf cipuup sep fabkus lesag. Upaewe waraw nimma wosaj wokwubci sojneluka tate opefa het hidma acsu wa viepo temijoves. Wes wuwfitez peujipul ob vausu cugef haskaplad givta jadid se ubzi bohwikop soessa bis mobola ludpi ru iguse.",
+    "bio": "Aveeno iniif fowad olled ibita ciwa dobpi ulisar likidege dep icmelpe savmoza ij vu. Evfunve nezoh pevej ed iharurjap feturku boppav taicevu kibzattu ipepebe ju uvohogija fu afeneva eciume jina. Meg ak fus kevri ejdeshe mopgug jar vujro nigwek bok teriw uwito beroha edtohsa pus baci doga fuhan. Aj loonooj sel sepvogka si ciaguru daf amotoan urezaese codoat ine wu sojiabu letanma holre. Talaji dec futazocu jid fiso evjun lifge cu gandac sipimevef zu metzihku ted libhuzik."
+  },
+  "apiKey": "e4391c5d3756560340fcc079db2c25bc20e4f306eb7e5b0de09d026ba07679ee",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
