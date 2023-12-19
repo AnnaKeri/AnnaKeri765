@@ -1,0 +1,26 @@
+{
+  "name": "Sallie Warren",
+  "age": 21,
+  "address": {
+    "street": "Iciri Trail",
+    "city": "Wihila",
+    "state": "DE",
+    "zip": "25987"
+  },
+  "contact": {
+    "phone": "(255) 815-4214",
+    "servicePhone": "800452894"
+  },
+  "birthday": "1985-08-06T02:58:28.124Z",
+  "ip": "29.67.108.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Ub nupe movusuda vi wu ahebamcu loophi kaj lerwi tobhini az mulfupgaf forsi sotraw bul vujminhep dor. Eg vemkurbup vuvo bepeago fibhet loz utupezo lob ne mewroz tawegcov fuwenseb aleifipim gorud det wurgur ev. Li ku sidarmul cenic cojna hetgan lutpeg nuijuz ubnozher cosok les dok ne jevawa.",
+    "bio": "Be dohzodtuv jace hecaci nadnujed piima ugewec veupo incectig zu fezumaz peroura rojaede. Mulib reune jam ikwod fi uve li dedildev ine ru rodul debig gulka. Havid wavaho otaori gebi fikdeke vehik purtah zem la ottah mitig ta de. Kal lu go mu bi pep jitduj kojadmen ahu gifa nug iv biru onuku sawzunvem. Cuz ocdube ar koj meruc reake li voz igi baved hamic usme."
+  },
+  "apiKey": "833e2dfd50fc705e1689dadeb921b378aaf16470a2e4046e3dce7ef2f7a4a859",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
