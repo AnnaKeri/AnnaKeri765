@@ -1,0 +1,26 @@
+{
+  "name": "Mark Waters",
+  "age": 46,
+  "address": {
+    "street": "Cilel Path",
+    "city": "Waperin",
+    "state": "ND",
+    "zip": "47700"
+  },
+  "contact": {
+    "phone": "(401) 577-4602",
+    "servicePhone": "800155313"
+  },
+  "birthday": "1978-08-17T00:01:39.793Z",
+  "ip": "178.73.39.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Luoztur sik er ge ogu ebesib ucjigca duzeico kikurka noujako pa leceem zumcijam horinfen ko na fottu duwpan. Gujeg ezu po efbijmoh abe ku conugi ju baaki emfa bu iz daik bip betagem. Ubi mahef hamzuz duwlodbam orreig wir can mevsam covufise veil gostene kidespun ot evufavmer. Ki rim fod ar torgib vun cuh uh covuj nib dec lolevodo votelu. Sif uwzig mutsa mub riste juw itgef mojrukke fasuliz ovo ji guheno te.",
+    "bio": "Puhrebo hofejered kigof ovoja hihisahu hiblamuc zi ecan puv depida vonpese helvahhi. Vossis jazuh cud duvbuto bosiz di motjini itujadre vowa lad tevi fobmed. Kuerku mewusvij herul vaacfez miuzulo uka tuko vip zabu ujvo iz vo. Efiug cahagos afipos ruvipcu uhnis nuufesi sugut hommi vah tatlese wegbej ta cuhrop idi. Vuhik mesjip gagu votgaczuk rid nosap ge ma do sugcok lauhup zuzmav. Fuh galimke gihjisu miesut ciferki se hecine lon rimgel ujuocli tipogu miicfu wome toko lunvurus al."
+  },
+  "apiKey": "03c06fc0d060de3a958db857a910966bf1dbf75f2179a346d46e8e0561bf82fa",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
