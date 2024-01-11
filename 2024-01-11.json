@@ -1,0 +1,26 @@
+{
+  "name": "Maria Dawson",
+  "age": 43,
+  "address": {
+    "street": "Kiwez Extension",
+    "city": "Tigairi",
+    "state": "GA",
+    "zip": "10339"
+  },
+  "contact": {
+    "phone": "(930) 705-5206",
+    "servicePhone": "800266332"
+  },
+  "birthday": "2006-03-20T13:47:07.249Z",
+  "ip": "205.117.198.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Wunulopa hossuohe ca zet irotusgac ubawad dis awoci awetke namage vaj ko zojowaz zuli mosbifuva. Luf mo rubaja fis nokoco fiko veil ami fu jefwik meewbej tiebonoh vu re celhigus buw ulinimvi fubjahwa. Ilu naduf cone usorocej vijnik loksuum niskavoh wademoat tavam ceb buoharo ewookuudi paec.",
+    "bio": "Ednetfu dessos we ta samnak foal tapi anpeat kolpo ir me ron ragjakaj magmoh asikil. Zuzuv ugu bugwar lejizpo efawik gokuzbav mucav zoed oce bet iwpi ofavurlot ufovipfi viifa pihrej po. Uble agzi olkotu na kecbujka we ol ogicakif luwcap te jufnaco fihcaltik ninvedaw ek uka wille."
+  },
+  "apiKey": "06593f525a830bc2a6068855e981c00a0b11b05388484083871a7b028fc54689",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
