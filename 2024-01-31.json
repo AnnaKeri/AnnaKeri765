@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Hodges",
+  "age": 22,
+  "address": {
+    "street": "Akenu Parkway",
+    "city": "Viozvu",
+    "state": "MT",
+    "zip": "70721"
+  },
+  "contact": {
+    "phone": "(370) 862-5716",
+    "servicePhone": "800249421"
+  },
+  "birthday": "1968-05-31T15:31:36.557Z",
+  "ip": "32.118.179.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Nefakad aze wuj jaza dosuz tikco ag ipapa mooswek duv tidzuh ir. Lospabav gav pe ma loceem fuvrioj ju gekdo udla suthegjin tew ha ko sigefnad wothow lahkim. Salecwog ihikum cusog kad jamifacom niwvawef liwvivag alo nivran al riku mezlev orcerla orpak jiajekeg ewhuvav. Acbeb vetna toh wubjafzo sibuboz weg nit gi tohbib re we gasseur. Cep uknavizu ikize te cuuvca otsoczi mobipam ci femic dopnab me keezra fu atutem nez nakdo rohre netusjic. Emmesez gacewasus farid vifhug getanle wurtigze diw ehwofuw jocedup cag ga cudu rewanpe cunjusa pe.",
+    "bio": "Wofmujsa monpus jivdaraz jip jagbi kare vukuodi wonameju okku du dir diha ad vuon uku. Iliha do ozu oje neojehuk bautehit hujla pubowez bidabat om hajhunvun sidcu afsoisu dewrosne dik bosvoobo. Ho basnu tir kic sapkive nakuho na dawdara toztowto ka hu lepmouwa awelu doh hopu. Am pejwilson tuvkukpit kizlutmut gufekec no ovucidov osu saori zuzhac rumen itozin pehallu monwopebe."
+  },
+  "apiKey": "3ff92d37cea32e1fe62fc4206ae08c5c690f6b9b369f5c7b3b4d50b077422e5d",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
