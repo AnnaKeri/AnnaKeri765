@@ -1,0 +1,26 @@
+{
+  "name": "Marc Smith",
+  "age": 26,
+  "address": {
+    "street": "Bojho View",
+    "city": "Wunata",
+    "state": "RI",
+    "zip": "25741"
+  },
+  "contact": {
+    "phone": "(252) 662-2084",
+    "servicePhone": "800955464"
+  },
+  "birthday": "2002-01-27T18:21:09.845Z",
+  "ip": "92.242.176.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Fi fave alcade kubu bacuw sunobsu fihobim pohagific kijiwafiz bafdiluv dormul su. Rogfozak nobotu esap guho owake koogde naop cu vubi pa uljus rice zu owpekuh hudiw du fiwvazso. Wiupajo gon levve sivoj sa kur micronori imtawani hudosi gumhatud odu atcuhbu ni. Ledaf fo ponji gige kinno ragne up ugoul oh on li adaf.",
+    "bio": "Nis zut gamabes co hit fendecba jo butvewzu sulibce merkagdap se nucukuf pekuwle nalet. Vogal cug ru ron uvilum puvje lofjacru lit vouno hinbeg mo ec pul gurangup figewuc zoga et bec. Kuuri miluzad ebimi vo tu ci muju ufoeri lebfuvem ne udaas boezo kotli wacihrek bib."
+  },
+  "apiKey": "88b12f7643fceb6a6e92adfd57b81b47124c167f377ef309f73c1b9b8ffecb4d",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
