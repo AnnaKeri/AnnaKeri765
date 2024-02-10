@@ -1,0 +1,26 @@
+{
+  "name": "Marc Simpson",
+  "age": 63,
+  "address": {
+    "street": "Giove Street",
+    "city": "Tefikse",
+    "state": "AK",
+    "zip": "55074"
+  },
+  "contact": {
+    "phone": "(924) 385-7251",
+    "servicePhone": "800185143"
+  },
+  "birthday": "1978-09-27T15:01:56.759Z",
+  "ip": "16.143.11.180",
+  "foo": "bar",
+  "profile": {
+    "about": "De fitafu luuwi lotmah huaffi zuc zazlumi fi rur wuvaknir lod dowku. Repu zupinpi cimar pedame bosageveg nu sifci zo heppula vobpopjuz imifur letsa fuhaji zukbeofo dodi zebene tiva. Soslune siekuham ale howre kohajek gev ihugi roh hariup vohezot piwotri ka cob teul tojkoilo belu sihpubag. Ukjis belatofuc penlolad ji zamime fa vuzakiha huodupuh soliliw nu toaza isenihveh. Eppofap douz jup efpis rizibmo cakcino mudko cat be omeavi ro hup ujise. Cadcefuj gun ub kujonkob vuhuon vuetejez giniccu nakper nowtiki panri woc balomeged hijker lezuvojik gokihini vadaiga.",
+    "bio": "Gawwoj halu ku vaemuew orna gig riukru lotu asi ijiz haem cegup gucne tiz vipo. Doh anojo sokeak feje empij emsu loujone perus uca orne isufu pe reskujo. Wukpolwu bajmobow ma de kejaip lurhima rel ajjiv nu izu ifilebwed fukuw nir. Ceifmi idojov we digucre tovno efkoccun kehvu iwki upda evaz bo mejez lizojod bucut pooka. Vehag ris upipi ir vauwti siv lokumte ami ozuhuw kij sum fedkepi mubpujju we za."
+  },
+  "apiKey": "c42a24d312da4e2b5ff0a16452d7f31294cc184b64e1f92bb360e8f45497d927",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
