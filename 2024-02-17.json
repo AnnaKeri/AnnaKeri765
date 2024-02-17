@@ -1,0 +1,26 @@
+{
+  "name": "Ola Carson",
+  "age": 24,
+  "address": {
+    "street": "Guti Street",
+    "city": "Dinalu",
+    "state": "ID",
+    "zip": "36799"
+  },
+  "contact": {
+    "phone": "(637) 270-9292",
+    "servicePhone": "800561777"
+  },
+  "birthday": "1996-04-10T02:14:53.954Z",
+  "ip": "48.70.123.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Jogatros ko avmunlow vidla rutukuji ku rebugce ewgarib sibowem ro ho leja ewvidite. Pifu wizrana suzoh posolmu cewam we hej lej sin vuveup uwnu conho hip. Zuv le ticla jijemvo uwolufos cog beerewe owzugdez suged wor rivgezipu kir pueme evhu bevfunfig. Senolej nud buk gagama mazulum acueli hocgitat tuwrefni reatoma racof kut viwarahi ezefojko.",
+    "bio": "Jecmuj feefoso dar ruzez fehwu azise coc wemi odibi li uwiwohna apa. Ziw hi wofcuha ojuedu cuca mizafek kewve tus fanokba ok opi et ubedzu jejiromur irva. Purwigmi subowde hewpowohi cuj la vom todze evi hicekol kiwib gotfut safurus zerip haasokot nocigicu uhedo loba gez. It navzuvme ro dadugke sut abeapupoz ser cigizbe low ijupinpot mani fad sas rehmodtam ca bozwa sup."
+  },
+  "apiKey": "5704ed5e514ad94c71fe3f3fe4bd6ee53569cb483659014a7291dd328dcdec89",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
