@@ -1,0 +1,26 @@
+{
+  "name": "Juan May",
+  "age": 44,
+  "address": {
+    "street": "Taketi Key",
+    "city": "Osimugum",
+    "state": "NY",
+    "zip": "50206"
+  },
+  "contact": {
+    "phone": "(260) 452-9996",
+    "servicePhone": "800244121"
+  },
+  "birthday": "1995-07-11T23:18:25.411Z",
+  "ip": "251.93.179.146",
+  "foo": "bar",
+  "profile": {
+    "about": "Ahafusal biku lezer vutija puw morobi ohizi am ped nuer gengobef ve nagduf zu kohkudor jesnoblo ijezve. Ves ilajeji sug evedontaf rin hahbi kotage vetgitus wurdigoz far cokit bi. Jelezvev ruipa erewe mid ate awuvoc majciosu viwigcez uta padwe mu vopken da cef izuirov.",
+    "bio": "Vopidu saginerac gojtuj lec cenakfo morfela feon kehun vezak fic zofiuh vazon vi aw op zu. Mi ewotottup lutuni ne tigcej wasiga hadojal awi so heana de araval gejofjom. Bulemzes jaga ni buhjerfun guscifog itahi gu wov wivo api vu kobahase. Tagiti ete leakve gigjes domemgac mumzizsu zepuheh kominoj kaksi dulowrol lef ugori hadabub matciz. Asci roormu suzeclid ejoal nemufjul zekam vovgiila heajku midemo sumfib ivuvis meju aze olauhuoj wugidrum."
+  },
+  "apiKey": "03d4238cc355d061bec49df10b934f9f53c71eb612b6d1084d6014149e644cd5",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
