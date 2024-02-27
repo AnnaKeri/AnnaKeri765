@@ -1,0 +1,26 @@
+{
+  "name": "Russell Spencer",
+  "age": 44,
+  "address": {
+    "street": "Kaep Boulevard",
+    "city": "Atikapo",
+    "state": "NE",
+    "zip": "89716"
+  },
+  "contact": {
+    "phone": "(630) 717-8047",
+    "servicePhone": "800914275"
+  },
+  "birthday": "1988-12-12T05:14:38.014Z",
+  "ip": "47.221.103.204",
+  "foo": "bar",
+  "profile": {
+    "about": "Ra egucunu oheumo vemiat oswu re dalpatkaz sohacdo ufopulo bo hu pawoh nanpuhu fiedzi dirot hoz fon tato. Navpel ke ittucag bag mefbu do tejrurlo tiramiwu ha pubbos esgatzo tennoveb kugsitbal. Luv civa vuf pez zubwefre uma eh lil zor ze ewfawew ekovi tu aru ho widuojo rehar pic.",
+    "bio": "Fag ce we su co gaazfiw kum zuvubeet fa ovocidoz egozuhzi wedatdo tak ho zo zuz. Ege regpezeh puki hotdenzot ce farzafo tej buh pofhakep arjufa fowufju etto dokfardi pe mihaek gi se. Bucuzoli baugo demhelce fit faho jikmuhun newodek suho lu wejcikvu sakzuce li bepuh uw usaseuj udo hamnimdi irki. Fa jophufiz owa weg pefahhal ika kov erli gamtagulo jubar ritjuhel nizdojwe baniami lup ma vobkefer hohbi epla. Mufeaz tosdu sogtijeb wofrisro moju una va ni ta fuh it guvwuz ajbebil liwezvuv cud etin kizudac. Sajifak lufoc vebba milegu bafop cuvhareb zohumwug calud cehuc dak cen gopip gaac kagiw."
+  },
+  "apiKey": "98001e8a02bc532d269e7b1d2622dcf03d0cfe8388032c1cd8b9063883acc78b",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
