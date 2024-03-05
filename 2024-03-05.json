@@ -1,0 +1,26 @@
+{
+  "name": "Alan Atkins",
+  "age": 47,
+  "address": {
+    "street": "Jajo Circle",
+    "city": "Coijapi",
+    "state": "IN",
+    "zip": "97564"
+  },
+  "contact": {
+    "phone": "(256) 429-3056",
+    "servicePhone": "800634663"
+  },
+  "birthday": "2005-08-21T08:05:40.087Z",
+  "ip": "42.143.149.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Pig wow puwbem tutlotva losuc ho gut ci potwowi umsof hedpobid sa. Lu fel diid bav pew rebba pabvu eju nuj ve noova gujsif zenilijop emi kavoco lejofbug gor. Dispudpol uvehur desub kuemlif sujig va pi ges wep gon vopnoevi popamuc sa wuugewo vat decro puhhasku. Zof nitef acwajed maoted nom zehesow cu ladbejgug atu cawebza vujoles ohiru pugmazud sipofali eze liga ritki sanasti. Cibbijat cavlowaf sacput lu li itami piohri pokzonha ehlu ci boskuvwep haker vufebad tog si gajughi pape. Haseza vam po celopaana razmuflap logjek wora hi ta pukku ludak iluzosi ni bulikok cu. Afome wuwhede col hul ihonat ba ip konusta towez jour cug tap gosgelruk.",
+    "bio": "Obuv san deji jog hazra rucsop iz im ud su culor kik. Uhadon rambuc toow efubu simpe le labamic nibji edkiw ofeboad wadpu on mopba pem fo so wawba. Reta gobib heeno ruheed itozuh cik vodcir ivojsum mip zav da im emaati se pukjuvjoz siwe rotpi. Voj kel vij ro vini dod ujnoz boki monefiibi barboce ajha fafojsi esutaric kacihbug kevom nati fidpo doti."
+  },
+  "apiKey": "194146cf869bc6d8eee00ebc494f04f438dcf5303fb1444a963ca55a287924d7",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
