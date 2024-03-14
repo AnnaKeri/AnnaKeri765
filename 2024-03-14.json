@@ -1,0 +1,26 @@
+{
+  "name": "Andrew Byrd",
+  "age": 37,
+  "address": {
+    "street": "Asuwek Circle",
+    "city": "Kihtafe",
+    "state": "NV",
+    "zip": "71778"
+  },
+  "contact": {
+    "phone": "(732) 601-9963",
+    "servicePhone": "800278422"
+  },
+  "birthday": "1968-04-23T15:24:49.650Z",
+  "ip": "53.9.188.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Zodu keh doahew in gu wuce modaro tobacfif ino alzerpun meezael vap saw lejej nap. Mo hojawuwel jubde kudeves je jidbar likiwor la gez an ibo hukavko tasmaszow. Je lo ultud lur mugogiut ho anukaal bed lo halef oji fa.",
+    "bio": "Ofsur urzempe hobmir liguvol rama uvu rovo akiwuwmel tauhoif nepeb lejrib tu. Pa mez napervaf lezootu vo ir cidsevavi hafgo uwa fepmuszuw ketut jikdoju. Ruf bihbiluki fovseb rucbo vaum lehbiv ma ahuzen ke jam zoinbi zuw gi ga gocinfu. Upibe nuzfef botge afjawar limlo zejlale hiacoka he gope gacuav rop ki gefuk kaanro jemel. Hu pib bo houmeef zajlim cohda udo upiofoweh nu kaesuere lobrieci kifbudij azrije govane zocopo jid ol."
+  },
+  "apiKey": "e35d2ed383f9e05795a85e67e679c7e45bacac84bdbfb172efda6197eeaedd08",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
