@@ -1,0 +1,26 @@
+{
+  "name": "Lulu Hill",
+  "age": 33,
+  "address": {
+    "street": "Noski Glen",
+    "city": "Mopriwaz",
+    "state": "OK",
+    "zip": "10197"
+  },
+  "contact": {
+    "phone": "(305) 620-8600",
+    "servicePhone": "800944448"
+  },
+  "birthday": "1993-02-18T00:12:48.237Z",
+  "ip": "79.9.93.166",
+  "foo": "bar",
+  "profile": {
+    "about": "We vosi duton firwug lebed ce aggi sisfom ve coirbe gabo redoh. Urusa so afcob owe ha dinsa buctero kut ji um avju torwejpi zeslot fevo lun wi hiwa vom. Zidma fu ku nezgop oj goveczec jomgihen vadospu tifi pagju sahakwon rom igva silojip. Bokhimwu joad debmac aw nes otozif ekiruw iz son pohi tuf pu nuwho irdu uhuga pet vosef ranbij.",
+    "bio": "Bavpu mawi okadi divaujo pucahul lihok ize lojo orlulgup nem ewu juom ukgiwu rip. Tejmos bucsephe ugi zevcuno kej fip arozoggo fegiuk ekapeoko te opiujawi mi cu ubruzeb koleru fabuk guujido duvuwavam. Firitezap wim dirudu lezace jol malfauv oj pohro az ki suguvenib fewpebda ruguv ocaini."
+  },
+  "apiKey": "311109f5de6f1d4bcea0b171b5b04293ade1a1ad117e6c0ddd081889538ef30a",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
