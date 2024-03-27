@@ -1,0 +1,26 @@
+{
+  "name": "Joel Beck",
+  "age": 57,
+  "address": {
+    "street": "Duhojo Turnpike",
+    "city": "Ictaszaw",
+    "state": "HI",
+    "zip": "79289"
+  },
+  "contact": {
+    "phone": "(582) 997-7377",
+    "servicePhone": "800964971"
+  },
+  "birthday": "1975-08-04T05:05:08.521Z",
+  "ip": "86.129.47.62",
+  "foo": "bar",
+  "profile": {
+    "about": "Ileh enzi pakzic ku tiwif kiwitcu matapeta ecolag kofde awsuhuda dosiso dubbo bu ten vi. Ipaimcin pa cafpemci hiziuvi ojful gerhufa zud cibebavad lal jueppab gunhira bu ivoucri gukfuvej. Huseruhaj vete ce bahzozir lo fono dagsi ewamumif redalnu tom mube noig tuc segve nogpas wu du. Ze wojric mulon uc cas of bevroge zet suvlizumi nof hu tufgo ijusotov divweh da daget orevofa.",
+    "bio": "Hicpu tu nebuas za takfevo po wuber ehi viji olwu pe wemrefzo ma pa. Mugdahve rila wotuuje ar kiowumuh baracsut lifon aru gatijoj muidake epvizij kubbow. Ipimu na uze lo tehtubaw soawa zijozo mehbihiwa jojluz icois er rel kodepro bulip sicvo."
+  },
+  "apiKey": "f61f5b7a4582936438f307714bd7fb21493815f3d3b4e4bfefd031cc998e926f",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
