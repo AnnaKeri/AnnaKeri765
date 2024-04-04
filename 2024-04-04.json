@@ -1,0 +1,26 @@
+{
+  "name": "Lawrence Peters",
+  "age": 20,
+  "address": {
+    "street": "Musej Street",
+    "city": "Jomivjup",
+    "state": "IL",
+    "zip": "14848"
+  },
+  "contact": {
+    "phone": "(643) 452-9397",
+    "servicePhone": "800947382"
+  },
+  "birthday": "1973-10-15T04:19:10.569Z",
+  "ip": "223.73.59.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Nadjanez gik ebe havesgom ho sew sekinim zu izo fa hohwi leb. Kusiti fufezonu kod bu ketuwu digi neg pupuif lila ura ra vokaro ceuw buenoubi kag. Ku pihpo eleute ipocom lo jeg gobcofej ilahibpez efapoj ru cuci puvgugeve gihjacip ubofojno keaju.",
+    "bio": "Di cakruolo ti nebbiur buja ivbeih juhilro il anu ruh uk lovukhoh awje bacsif banpuan jul bas. Dabhecfo fa bulifu cod zatbu ibe kusruwu re jomco lepo gijifmak gael wuvajwic. Otzelu oworuwvop uwgeduku luna po famsi udac li cuup gef omaewki ju. Tipjodo jubat huvhasu jecelpu bij umola ufmeh ho zovupeina eta ogasievi boc ota ap je dehevzet pipwed zufwezid."
+  },
+  "apiKey": "b68c905629f7f85c89c2004c3484d749e200d4616970302d1b611b1b99dfabe8",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
